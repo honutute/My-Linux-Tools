@@ -8,3 +8,6 @@ PATHの中身を1行ずつ表示します。
 ## originalalias
 alias lpw='ls -l;pwd;whoami'
 ディレクトリと現在地とユーザー名を表示します。
+
+##実は
+ここで編集可
